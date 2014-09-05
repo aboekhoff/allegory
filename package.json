@@ -1,0 +1,19 @@
+{
+  "name": "allegory",
+  "version": "0.1.0",
+  "description": "scratch my itch programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aboekhoff/allegory.git"
+  },
+  "author": "Andrew Boekhoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aboekhoff/allegory/issues"
+  },
+  "homepage": "https://github.com/aboekhoff/allegory"
+}
